@@ -1,4 +1,6 @@
 arquivo de teste
 para simplemente
 um teste
-
+foi adicionado
+mais umas linhas]
+de commandos
